@@ -1,3 +1,3 @@
 # hello-world
-Descobrindo GitHub
+Descobrindo Git
 Testando as alterações 01
